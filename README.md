@@ -14,6 +14,8 @@ This is a simple web project ,deployment can be on  any webserver or even local 
 
 ## How To Contribute
 
+Please fork this repository and then issue pull requests for review.
+
 
 ### Copyright 
 
