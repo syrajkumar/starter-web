@@ -1,6 +1,6 @@
 #Start Web Project
 
-This is a section for a simple web application
+This is a section for a simple web application.Adding a line for rebasing example
 
 ## Introduction
 This is a emaple to show how diff works
