@@ -1,6 +1,6 @@
 #Start Web Project
 
-This is a section for a simple web application.Adding a line for rebasing example,then more chnages from my feature branch too.
+This is a section for a simple web application. June 24 adding a line for rebasing example.
 
 ## Introduction
 This is a emaple to show how diff works
